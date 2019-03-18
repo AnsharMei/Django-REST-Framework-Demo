@@ -6,5 +6,7 @@ build
 /apps/*/migrations/*
 !/apps/*/migrations/__init__.py
 
+__pycache__
+
 .idea
 media
